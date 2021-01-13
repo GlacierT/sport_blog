@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/sport_blog/static/css/main.aba3fe92.chunk.css",
+    "main.js": "/sport_blog/static/js/main.198c4eb1.chunk.js",
+    "main.js.map": "/sport_blog/static/js/main.198c4eb1.chunk.js.map",
+    "runtime-main.js": "/sport_blog/static/js/runtime-main.54df94f7.js",
+    "runtime-main.js.map": "/sport_blog/static/js/runtime-main.54df94f7.js.map",
+    "static/js/2.41ae1098.chunk.js": "/sport_blog/static/js/2.41ae1098.chunk.js",
+    "static/js/2.41ae1098.chunk.js.map": "/sport_blog/static/js/2.41ae1098.chunk.js.map",
+    "index.html": "/sport_blog/index.html",
+    "precache-manifest.2c2bbfbc099f78a1531891387b6ddde2.js": "/sport_blog/precache-manifest.2c2bbfbc099f78a1531891387b6ddde2.js",
+    "service-worker.js": "/sport_blog/service-worker.js",
+    "static/css/main.aba3fe92.chunk.css.map": "/sport_blog/static/css/main.aba3fe92.chunk.css.map",
+    "static/js/2.41ae1098.chunk.js.LICENSE": "/sport_blog/static/js/2.41ae1098.chunk.js.LICENSE",
+    "static/media/131158382_2592563177702165_5456903758542119598_n-e1608125189377.jpg": "/sport_blog/static/media/131158382_2592563177702165_5456903758542119598_n-e1608125189377.c4baa750.jpg",
+    "static/media/3-1-800x445.jpg": "/sport_blog/static/media/3-1-800x445.f2cfade6.jpg",
+    "static/media/baydarka-9-1024x683.jpg": "/sport_blog/static/media/baydarka-9-1024x683.8332d8a8.jpg",
+    "static/media/bczp_kiev-e1610197555770.jpg": "/sport_blog/static/media/bczp_kiev-e1610197555770.b4c9a6de.jpg",
+    "static/media/cher2.jpg": "/sport_blog/static/media/cher2.03c55cb0.jpg",
+    "static/media/kramarenko.jpg": "/sport_blog/static/media/kramarenko.78710204.jpg",
+    "static/media/kuzko_baza.jpg": "/sport_blog/static/media/kuzko_baza.4dc37c44.jpg",
+    "static/media/orig_421395.jpg": "/sport_blog/static/media/orig_421395.49069219.jpg",
+    "static/media/seamless-sports-pattern-background_98292-4294.jpg": "/sport_blog/static/media/seamless-sports-pattern-background_98292-4294.6204a337.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54df94f7.js",
+    "static/js/2.41ae1098.chunk.js",
+    "static/css/main.aba3fe92.chunk.css",
+    "static/js/main.198c4eb1.chunk.js"
+  ]
+}
